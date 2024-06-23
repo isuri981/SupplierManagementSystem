@@ -1,0 +1,7 @@
+Admin Log
+username -isuri
+password -Isu@1234
+
+User Log 
+username -Kumari
+password -123 
